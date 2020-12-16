@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
+/*@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");*/
+@import url("https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400");
 
 /*
 	Phantom by Pixelarity
@@ -117,7 +118,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "IM Fell DW Pica", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
